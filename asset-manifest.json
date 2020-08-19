@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ankit-quiz-app/static/css/main.6b6f8d75.chunk.css",
+    "main.js": "/ankit-quiz-app/static/js/main.f7314210.chunk.js",
+    "main.js.map": "/ankit-quiz-app/static/js/main.f7314210.chunk.js.map",
+    "runtime-main.js": "/ankit-quiz-app/static/js/runtime-main.16d7488d.js",
+    "runtime-main.js.map": "/ankit-quiz-app/static/js/runtime-main.16d7488d.js.map",
+    "static/js/2.b86df4a9.chunk.js": "/ankit-quiz-app/static/js/2.b86df4a9.chunk.js",
+    "static/js/2.b86df4a9.chunk.js.map": "/ankit-quiz-app/static/js/2.b86df4a9.chunk.js.map",
+    "index.html": "/ankit-quiz-app/index.html",
+    "precache-manifest.516e1c4e80b877f5733c8783a0ce3450.js": "/ankit-quiz-app/precache-manifest.516e1c4e80b877f5733c8783a0ce3450.js",
+    "service-worker.js": "/ankit-quiz-app/service-worker.js",
+    "static/css/main.6b6f8d75.chunk.css.map": "/ankit-quiz-app/static/css/main.6b6f8d75.chunk.css.map",
+    "static/js/2.b86df4a9.chunk.js.LICENSE.txt": "/ankit-quiz-app/static/js/2.b86df4a9.chunk.js.LICENSE.txt",
+    "static/media/Correct-answer.mp3": "/ankit-quiz-app/static/media/Correct-answer.02882ce2.mp3",
+    "static/media/Wrong-answer.mp3": "/ankit-quiz-app/static/media/Wrong-answer.093eed4f.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16d7488d.js",
+    "static/js/2.b86df4a9.chunk.js",
+    "static/css/main.6b6f8d75.chunk.css",
+    "static/js/main.f7314210.chunk.js"
+  ]
+}
